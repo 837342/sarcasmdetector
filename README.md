@@ -1,0 +1,2 @@
+# sarcasmdetector
+Sarcasm detector application
